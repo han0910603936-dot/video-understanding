@@ -1,0 +1,4 @@
+*.skill
+__pycache__/
+*.mp4
+out/
